@@ -24,7 +24,6 @@ class App extends React.Component {
 
     render() {
         const { isLoading, movies } = this.state;
-
         return (
             <section class="container">
                 {isLoading ? (
