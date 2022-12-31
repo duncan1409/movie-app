@@ -10,3 +10,6 @@ Axios JavaScript 라이브러리를 이용해서 영화 API를 호출하고 영�
 1. Read axios APICancel changes
 
 2. Show Movies Information
+
+## Refer
+https://nomadcoders.co/react-for-beginners/lobby
